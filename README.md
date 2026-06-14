@@ -30,7 +30,7 @@ Welcome to the repository for my personal portfolio website! This is where I sho
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Naresh-Khatri/Portfolio.git
+    git clone https://github.com/aryansingh7877/3d-portfolio
     ```
 
 2. Navigate to the project directory:
@@ -69,6 +69,6 @@ This site is deployed on Vercel. For your own deployment, follow these steps:
 
 If you'd like to contribute or suggest improvements, feel free to open an issue or submit a pull request. All contributions are welcome!
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+
+
