@@ -25,7 +25,7 @@ const config = {
   ],
   author: "Aryan Singh",
   email: "aryansingh787769@gmail.com",
-  site: "https://linkedin.com/in/aryan-singh-574a2024a", // Fallback to linkedin or deployment URL
+  site: "https://aryansingh.site",
 
   // for github stars button
   githubUsername: "aryansingh7877",
